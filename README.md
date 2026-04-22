@@ -4,22 +4,31 @@ EXECUTION STEPS
 
 
 Step 1: Install dependencies
+
 pip install tensorflow networkx numpy
+
 Step 2: Run Training
+
 python training.py
 
 Output:
 
 HIGH_best.weights.h5
+
 LOW_best.weights.h5
+
 MULTI_best.weights.h5
 
 Step 3: Run Testing
+
 python testing.py
  
 Step 4: Output Example
+
 Acceptance Ratio: 82.30%
+
 Revenue/Cost Ratio: 1.33
+
 CPU Utilization: 16.6%
 
 
