@@ -9,7 +9,7 @@ pip install tensorflow networkx numpy
 
 Step 2: Run Training
 
-python training.py
+python 6gnn.py
 
 Output:
 
@@ -21,7 +21,7 @@ MULTI_best.weights.h5
 
 Step 3: Run Testing
 
-python testing.py
+python gnn_testing.py
  
 Step 4: Output Example
 
