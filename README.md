@@ -1,6 +1,8 @@
 The system integrates GNN-based topology-aware embeddings with reinforcement learning to achieve adaptive and scalable resource allocation in dynamic IoT networks.
 
 EXECUTION STEPS
+
+
 Step 1: Install dependencies
 pip install tensorflow networkx numpy
 Step 2: Run Training
